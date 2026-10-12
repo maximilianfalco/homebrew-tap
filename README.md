@@ -1,7 +1,7 @@
-# homebrew-headroom
+# homebrew-tap
 
 ```sh
-brew install --cask maximilianfalco/headroom/headroom-bar
+brew install --cask maximilianfalco/tap/headroom-bar
 ```
 
 | cask | what it is |
